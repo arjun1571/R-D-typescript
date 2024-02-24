@@ -1,3 +1,12 @@
 "use strict";
-const Name = "arjun chandra das";
-console.log(Name);
+// primative type 
+// string
+// number
+// boolean
+// null
+// undefined
+const course = "arjun chandra das";
+const rol = 102;
+const isAdmin = true;
+console.log(course.length);
+console.log(course);
